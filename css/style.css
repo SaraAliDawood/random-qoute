@@ -1,0 +1,13 @@
+h1{
+    font: size 80px; ;
+}
+p{
+    font-size: 35px;
+}
+button{
+    background-color: blue;
+    margin: auto;
+}
+button:hover{
+    background-color: green;
+}
